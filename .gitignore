@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+build/
+.dart_tool/
+.gradle/
+*.apk
+*.aab
+*.jks
+*.keystore
